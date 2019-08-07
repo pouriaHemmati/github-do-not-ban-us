@@ -1,0 +1,5 @@
+public static class GitHub implements IsFreeForEveryone {
+    public Free developers(String everyone){
+     Log.e("Free" , everyone);
+    }
+}
